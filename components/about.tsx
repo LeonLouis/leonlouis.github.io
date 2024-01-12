@@ -15,8 +15,8 @@ const AboutSection = () => {
           />
           <div className="p-[20px]">
             <h2 className="md:text-[40px] text-[24px] mb-[20px] font-semibold">About</h2>
-            <p className="mb-[20px] md:text-lg text-base">Ut convallis, sem sit amet interdum consectetuer, odio augue aliquam leo, nec dapibus tortor nibh sed augue. Integer eu magna sit amet metus fermentum posuere. Morbi sit amet nulla sed dolor elementum imperdiet. Quisque fermentumcum sociis natoque penatibus et magnis xdis parturient montes, nascetur ridiculus mus. Pellentesque adipiscing eros ut libero. Ut condimentum mi vel tellus.</p>
-            <p className="mb-[20px] md:text-lg text-base">Suspendisse laoreet. Fusce ut est sed dolor gravida convallis. Morbi vitae ante. Vivamus ultrices luctus nunc. Suspendisse et dolor. Etiam dignissim. Proin malesuada adipiscing lacus. Donec metus. Curabitur gravida</p>
+            <p className="mb-[20px] md:text-lg text-base">Howdy! I&apos;m your go-to introverted web developer, immersed in WordPress for four years now. My world revolves around crafting masterpiece websites, and my coding skills are my trusty companions.</p>
+            <p className="mb-[20px] md:text-lg text-base">When I&apos;m not in the internet world, I&apos;m satisfying my dual passions: exploring different cuisines and traveling around the world. Join me in this adventure where code meets foodie delights and travel escapades.</p>
           </div>
         </div>
       </div>

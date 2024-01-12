@@ -10,7 +10,7 @@ const HomePage = () => {
       <Head>
         <title>Louis L.</title>
         <meta property="og:title" content="Louis L." key="title" />
-        <meta property="og:description" content="Just your typical introvert & chubby web developer who doesn't have a taste for designing." />
+        <meta property="og:description" content="Just your regular introverted and coffee-fueled web developer with a passion for coding and a soft spot for snacks." />
         <meta property="og:url" content="https://louis.fatbois.life" />
         <link rel="icon" type="image/x-icon" href="/favicon.png"></link>
       </Head>
