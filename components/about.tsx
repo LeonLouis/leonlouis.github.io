@@ -1,5 +1,6 @@
 import React from 'react'
 import Image from 'next/image'
+import AboutImage from '../public/aboutImage.png'
 
 const AboutSection = () => {
   return (
@@ -7,10 +8,8 @@ const AboutSection = () => {
       <div className="container mx-auto bg-white md:py-20 py-10">
         <div className="flex items-center gap-x-10 justify-center flex-col-reverse xl:flex-row">
           <Image
-            src="/aboutImage.png"
+            src={AboutImage}
             className="px-[20px] pb-[20px]"
-            width={677}
-            height={785}
             alt="Developer Image"
           />
           <div className="p-[20px]">
