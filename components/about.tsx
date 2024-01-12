@@ -4,7 +4,7 @@ import AboutImage from '../public/aboutImage.png'
 
 const AboutSection = () => {
   return (
-    <section className="lg:h-[100vh] h-[100%] px-[20px]">
+    <section className="h-[100%] px-[20px]">
       <div className="container mx-auto bg-white md:py-20 py-10">
         <div className="flex items-center gap-x-10 justify-center flex-col-reverse xl:flex-row">
           <Image
