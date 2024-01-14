@@ -9,7 +9,7 @@ const ProjectsSection = () => {
         <div className="mx-auto text-center">
           <h2 className="md:text-[40px] text-[24px] mb-[20px] font-semibold">Recent Projects</h2>
           <p className="md:text-lg text-base">
-            Here are some of the projects I've created.
+            Here are some of the projects I&apos;ve created.
           </p>
         </div>
         <div className="mx-auto grid max-w-2xl grid-cols-1 gap-x-8 gap-y-16 pt-10 lg:max-w-none lg:grid-cols-3">
