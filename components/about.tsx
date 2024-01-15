@@ -13,7 +13,7 @@ const AboutSection = () => {
             alt="Developer Image"
           />
           <div className="p-[20px]">
-            <h2 className="md:text-[40px] text-[24px] mb-[20px] font-semibold">About</h2>
+            <h2 className="md:text-4xl text-2xl mb-[20px] font-semibold">About</h2>
             <p className="mb-[20px] md:text-lg text-base">Howdy! I&apos;m your go-to introverted web developer, immersed in WordPress for four years now. My world revolves around crafting masterpiece websites, and my coding skills are my trusty companions.</p>
             <p className="mb-[20px] md:text-lg text-base">When I&apos;m not in the internet world, I&apos;m satisfying my dual passions: exploring different cuisines and traveling around the world. Join me in this adventure where code meets foodie delights and travel escapades.</p>
           </div>

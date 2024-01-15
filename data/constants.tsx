@@ -38,3 +38,62 @@ export const projects = [
     image: `${ComingSoon.src}`
   },
 ];
+
+export const skills = [
+  {
+    name: 'HTML',
+    img: '/html5.svg',
+  },
+  {
+    name: 'CSS',
+    img: '/css3.svg',
+  },
+  {
+    name: 'Sass',
+    img: '/sass.svg'
+  },
+  {
+    name: 'JavaScript',
+    img: '/js.svg',
+  },
+  {
+    name: 'PHP',
+    img: '/php.svg',
+  },
+  {
+    name: 'WordPress',
+    img: '/wordpress.svg',
+  },
+  {
+    name: 'Git',
+    img: '/git.svg',
+  },
+  {
+    name: 'MySQL',
+    img: '/mysql.svg',
+  },
+  {
+    name: 'Jquery',
+    img: '/jquery.svg',
+  },
+  {
+    name: 'NativeScript',
+    img: '/nativescript.svg',
+  },
+  {
+    name: 'Tailwind',
+    img: '/tailwind.svg',
+  },
+  {
+    name: 'Bootstrap',
+    img: '/bootstrap.svg',
+  },
+  {
+    name: 'Github',
+    img: '/github.svg',
+  },
+  {
+    name: 'Postman',
+    img: '/postman.svg',
+  }
+]

@@ -7,7 +7,7 @@ const ProjectsSection = () => {
     <section className="container mx-auto bg-white md:py-20 py-10">
       <div className="mx-auto px-[20px]">
         <div className="mx-auto text-center">
-          <h2 className="md:text-[40px] text-[24px] mb-[20px] font-semibold">Recent Projects</h2>
+          <h2 className="md:text-4xl text-2xl mb-[20px] font-semibold">Recent Projects</h2>
           <p className="md:text-lg text-base">
             Here are some of the projects I&apos;ve created.
           </p>
@@ -32,7 +32,7 @@ const ProjectsSection = () => {
                 ))}
               </div>
               <div className="relative">
-                <h3 className="mt-5 md:text-lg text-base font-semibold leading-6 text-gray-900 group-hover:text-gray-600">
+                <h3 className="mt-5 md:text-lg text-base font-semibold leading-6 text-gray-900 hover:text-gray-600">
                   <a href={project.href} target="_blank">
                     {project.title}
                   </a>
