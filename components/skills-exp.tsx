@@ -11,9 +11,9 @@ const SkillsExperienceSection = () => {
       <div className="container px-[20px] mx-auto">
         <div className="flex flex-wrap gap-3 max-w-3xl mx-auto justify-center">
           {skills.map((skill) => (
-            <div key={skill.name} className="py-2 px-4 flex items-center gap-3 border border-white rounded-lg">
+            <div key={skill.name} className="py-2 px-4 flex items-center gap-3 border border-white rounded-lg group hover:bg-white cursor-pointer">
               <img src={skill.img} alt={`${skill.name} logo`} className="w-5"/>
-              <p className="text-white">{skill.name}</p>
+              <p className="text-white group-hover:text-black">{skill.name}</p>
             </div>
           ))}
         </div>
