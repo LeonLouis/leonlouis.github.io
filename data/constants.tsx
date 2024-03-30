@@ -1,4 +1,5 @@
 import ComingSoon from '../public/coming-soon.jpg'
+import SnippetsImg from '../public/snippets-plugin.jpg'
 
 export const projects = [
   {
@@ -21,9 +22,9 @@ export const projects = [
       "PHP"
     ],
     description: "A WordPress plugin where you can create code snippets for your website as a knowledge base that users can check and search for codes.", 
-    href: "#",
+    href: "https://github.com/LeonLouis/WP-Code-Snippets-Plugin",
     title: "Code Snippets Plugin",
-    image: `${ComingSoon.src}`
+    image: `${SnippetsImg.src}`
   },
   {
     id: 3,
