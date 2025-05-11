@@ -19,7 +19,7 @@ const HomePage = () => {
         <meta property="og:image:height" content="600"/>
         <meta property="og:title" content="Louis L. - Web Developer" key="title" />
         <meta property="og:description" content="Just your regular introverted and coffee-fueled web developer with a passion for coding and a soft spot for snacks." />
-        <meta property="og:url" content="https://louis.fatbois.life" />
+        <meta property="og:url" content="https://leonlouis.github.io/" />
         <meta name="twitter:image:src" content={`${BannerImage.src}`}/>
         <meta name="twitter:site" content="@github" />
         <meta name="twitter:card" content="summary_large_image" />
