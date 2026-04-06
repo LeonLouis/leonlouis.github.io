@@ -1,7 +1,21 @@
 import ComingSoon from '../public/coming-soon.jpg'
 import SnippetsImg from '../public/snippets-plugin.jpg'
 
-export const projects = [
+export interface Project {
+  id: number;
+  category: string[];
+  description: string;
+  href: string;
+  title: string;
+  image: string;
+}
+
+export interface Skill {
+  name: string;
+  img: string;
+}
+
+export const projects: Project[] = [
   {
     id: 1,
     category: [
@@ -40,7 +54,7 @@ export const projects = [
   },
 ];
 
-export const skills = [
+export const skills: Skill[] = [
   {
     name: 'HTML',
     img: '/html5.svg',
